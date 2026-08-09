@@ -1,0 +1,10 @@
+step,name,requirement
+1,Branch and claim type,Declare Native descriptive or Swappable causal branch.
+2,Code-verifiable evaluation,"Record metric, split, version, horizon, candidate count, repository and commit."
+3,Data and compute controls,"Disclose training/pretraining data, overlap, compute, supervision and residual confounds."
+4,Horizon sweep,"Report official Z=20 plus labelled Z=4,8,12 diagnostics."
+5,Backbone sensitivity and anchor,Repeat with weaker backbone and bounded non-LLM decoder.
+6,Calibration,"Report NLL, Brier, ECE and defined risk-coverage."
+7,Prompt/checkpoint reproducibility,"Record checkpoint, prompts, decoding settings, seeds and repeated runs."
+8,Deployment cost,"Record hardware, precision, memory, latency, throughput, calls, tokens and API cost."
+9,Row-level provenance,"Record source locator, protocol metadata, code commit and verification status."

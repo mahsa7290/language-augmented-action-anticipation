@@ -1,0 +1,10 @@
+step,dimension,AntGPT,PlausiVL,V-JEPA_2.1
+1,branch_and_claim_type,BCAP-Native; descriptive system comparison plus selected author ablations,BCAP-Native; descriptive system comparison plus selected author ablations,BCAP-Native; descriptive C1 system evidence only
+2,evaluation_implementation,Official repository and LTA inference path identified; row not rerun,No versioned public implementation identified; paper protocol only,"Official repository, EK-100 evaluator and ViT-G configuration identified; row not rerun"
+3,data_and_compute_controls,Checkpoints named; exposure and compute unmatched,Backbone/checkpoint described; volume and compute unmatched,Scale substantially disclosed; unmatched to language systems
+4,horizon_sweep,"No shared-code BCAP Z=4,8,12 sweep identified",No shared-evaluator BCAP horizon sweep identified,EK-100 single-action setting; no matched cross-horizon BCAP study
+5,backbone_sensitivity_and_anchor,No common-encoder Swappable comparison identified,No common-encoder Swappable comparison identified,Strong C1 system but not matched anchor inside LLM architecture
+6,calibration_and_selective_risk,No complete BCAP NLL/Brier/ECE/risk-coverage report,No complete BCAP calibration/selective-risk report,No calibration interval attached to transcribed row
+7,prompt_checkpoint_and_stochasticity,Partial scripts/prompts; no repeated-API interval for every row,Design described; no frozen public run config or BCAP uncertainty interval,Versioned model/eval config; no repeated-run interval for survey row
+8,deployment_cost,No full per-example hardware/memory/latency/token/cost row,No complete BCAP deployment-cost row,Family-level compute only; not matched per-example
+9,row_level_provenance,Paper tables plus repo commit and script/config recorded; Transcribed-Level (i),Paper source provenance only; Transcribed-Level (i),"Paper result plus repo commit, evaluator and config recorded; Transcribed-Level (i)"

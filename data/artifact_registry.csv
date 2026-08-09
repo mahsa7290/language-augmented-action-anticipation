@@ -1,0 +1,4 @@
+method,artifact_url,artifact_version_or_commit,access_date,evaluation_script,configuration_file,verification_status
+AntGPT,https://github.com/brown-palm/AntGPT,2dbc211ae85d4fd8115b50a416ca91e8687bb6e6,2026-08-02,Llama2_models/Finetune/llama-recipes/inference/inference_lta.py,transformer_models/configs/ego4d_image_pred_in8.yaml,Official repository and paths inspected; result row not rerun; Transcribed-Level (i)
+PlausiVL,,,2026-08-02,,,No public repository identified in this audit; paper-derived; Transcribed-Level (i)
+V-JEPA 2.1,https://github.com/facebookresearch/vjepa2,204698b45b3712590f06245fbfba32d3be539812,2026-08-02,evals/action_anticipation_frozen/eval.py,configs/eval_2_1/vitG-384/ek100.yaml,Official repository/evaluator/config inspected; 40.8 row not rerun; Transcribed-Level (i)

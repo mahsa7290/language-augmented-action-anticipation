@@ -1,0 +1,8 @@
+claim,supporting_studies,independent_groups,shared_evaluator,controlled_ablation,confidence,scope_note
+Goal/intention conditioning can improve long-horizon anticipation,AntGPT; ICVL; INSIGHT; GP-AMS,4,No across papers,Dedicated or partial author ablations,Moderate,Backbone/data/compute not jointly fixed
+Semantic/action-history context can replace part of dense video in selected procedural settings,TransFusion; AAG; AAG+; PALM,3,No across papers,Modality/history ablations,"Moderate, task-specific","IKEA-ASM, Meccano, Assembly101 and related procedural regimes"
+A geometric intent signal can outperform textual conditioning in the studied regime,TrajPilot,1,Within study,Direct conditioning contrast,Moderate within study; unreplicated,Not a general claim against language
+Anti-repetition or structured decoding can improve sequence stability,PlausiVL; VideoPlan; AGA,3,No across papers,Heterogeneous author ablations,Low–moderate,Evidence is author-controlled and protocol-heterogeneous; no shared cross-paper evaluator
+Published EK-100 numbers are difficult to reconcile,PlausiVL; V-JEPA 2; V-JEPA 2.1; transcribed baselines,Multiple,No,No matched cross-family ablation,High for incompatibility; low for ranking,Table is not a leaderboard
+Grounding/verification may improve feasibility,LEAP; FactCheck; SymAnt; planning boundary cases,Multiple,No,Mainly within-study or non-benchmark evidence,Low/emerging,"C4 evidence spans anticipation, symbolic verification, and planning-boundary settings"
+Calibration/selective prediction require explicit measurement,Decision-Aware Uncertainty Evaluation; calibration literature,1 anticipation-specific,Within study only,"Evaluation protocol, not architecture ablation",Emerging,Temporal-prefix VLM setting

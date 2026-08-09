@@ -1,0 +1,26 @@
+method,publication_maturity,component_isolation,protocol_relevance,reproduction_status,source_location
+TransFusion,Archival,dedicated_not_identified,direct,Transcribed-Level (i),Secs. 4.1-4.4; Table 2 and associated ablations
+PALM,Archival,dedicated,direct,Transcribed-Level (i),Table 3; Appendix B.3/Table 7; Appendix D.2/Table 11
+SAFT,Archival,dedicated_not_identified,direct,Transcribed-Level (i),Overall-results section
+M-CAT,Preprint,dedicated,direct,Transcribed-Level (i),Sec. 4.3; Tables 5-6; Fig. 4
+V-JEPA 2.1,Preprint,none_for_llm_role,direct,Transcribed-Level (i),Main results table
+EgoAnticipator,Archival,dedicated,direct_sta,Transcribed-Level (i),Sec. 5.4; Tables 3-6
+AntGPT,Archival,dedicated,direct,Transcribed-Level (i),Experiments; Appendix A.5
+INSIGHT,Archival,dedicated,direct,Transcribed-Level (i),Table 3
+GP-AMS,Archival,none_identified,direct_procedural,Transcribed-Level (i),Overall-results section
+ICVL,Preprint,dedicated,direct,Transcribed-Level (i),Sec. 4.4; Tables 3-6; Fig. 4
+PAR-VLA,Archival,dedicated,direct,Transcribed-Level (i),Tables 4-5
+Mascaro et al.,Archival,none_identified,direct,Transcribed-Level (i),Sec. 4.3; Table 1 and validation ablations
+PlausiVL,Archival,dedicated,direct,Transcribed-Level (i),Sec. 5.2; Tables 3-4
+VideoPlan,Archival,dedicated,direct,Transcribed-Level (i),Sec. 4.3; Tables 5-8
+ActionLLM,Archival,dedicated,direct,Transcribed-Level (i),Sec. IV-C.1; Tables IV-VII
+AGA,Archival,dedicated,direct,Transcribed-Level (i),Sec. 4.3; Tables 5-6
+LEAP,Preprint,partial,metric_mismatched,Transcribed-Level (i),Results and ablation discussion
+FactCheck,Preprint,dedicated,direct,Transcribed-Level (i),Sec. 5.3.1; Tables 4-5
+SymAnt,Non-archival,dedicated_source_reported,direct_nonstandard,Transcribed-Level (i),Experimental-results chapter
+TR-LLM,Preprint,none,boundary,Transcribed-Level (i),Overall-results section
+Anticipate & Act,Preprint,none,boundary,Transcribed-Level (i),Sec. IV-B; Tables I-IV
+HWM,Preprint,none,boundary,Transcribed-Level (i),Secs. 3.1-3.2; Tables 1-2
+AAG,Archival,dedicated,direct_procedural,Transcribed-Level (i),"Sec. 5.1, Table 1; Secs. 5.3-5.4, Tables 4-5"
+DCPGN,Archival,partial,direct_cross_view,Transcribed-Level (i),Secs. 4.2-4.4; Tables 1-4
+TrajPilot,Preprint,dedicated,direct_adjacent_multibenchmark,Transcribed-Level (i),Conditioning comparison; planning and anticipation result sections

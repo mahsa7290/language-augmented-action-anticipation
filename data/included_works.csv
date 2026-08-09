@@ -1,0 +1,80 @@
+work,venue_or_identifier,publication_maturity,benchmark_or_role,inventory_group,record_count
+TransFusion,CVPR 2024,Archival,Ego4D-STA / EK-100,core_focal,1
+PALM,ECCV 2024,Archival,Ego4D/EK/EGTEA,core_focal,1
+SAFT,MVA 2026,Archival,Ego4D,core_focal,1
+M-CAT,arXiv:2401.12972,Preprint,"EK-55/100, EGTEA",core_focal,1
+V-JEPA 2.1,arXiv:2603.14482,Preprint,EK-100,core_focal,1
+EgoAnticipator,IJCAI 2025,Archival,Ego4D-STA v1/v2,core_focal,1
+AntGPT,ICLR 2024,Archival,Ego4D/EK/EGTEA,core_focal,1
+INSIGHT,AAAI 2026,Archival,Ego4D/EK/EGTEA,core_focal,1
+GP-AMS,TPAMI 2026,Archival,Assembly101,core_focal,1
+ICVL,arXiv:2505.01713,Preprint,Ego4D,core_focal,1
+PAR-VLA,CVPR 2026,Archival,EK-100/EGTEA/50Salads,core_focal,1
+Mascaro et al.,WACV 2023,Archival,Ego4D,core_focal,1
+PlausiVL,CVPR 2024,Archival,Ego4D/EK,core_focal,1
+VideoPlan,WACV 2026,Archival,COIN/CrossTask/Ego4D,core_focal,1
+ActionLLM,IEEE TMM 2025,Archival,50Salads/Breakfast,core_focal,1
+AGA,ICLR 2026,Archival,EK-100/EK-55/EGTEA,core_focal,1
+LEAP,arXiv:2312.00055,Preprint,EK,core_focal,1
+FactCheck,arXiv:2606.14778,Preprint,"EK-55, EGTEA",core_focal,1
+SymAnt,CMU-RI-TR-25-45,Non-archival,Breakfast/50Salads/EK,core_focal,1
+TR-LLM,arXiv:2410.03993,Preprint,Home environment,core_focal,1
+Anticipate & Act,arXiv:2502.02066,Preprint,VirtualHome,core_focal,1
+HWM,arXiv:2604.03208,Preprint,Non-egocentric,core_focal,1
+SparseVLM,arXiv:2410.04417,Preprint,,core_deployment,1
+PruneVid,arXiv:2412.16117,Preprint,,core_deployment,1
+VTS,arXiv:2409.11182,Preprint,,core_deployment,1
+AdaCM2,CVPR 2025,Archival,,core_deployment,1
+ReKV,ICLR 2025,Archival,,core_deployment,1
+VideoLLM-online,CVPR 2024,Archival,,core_deployment,1
+STREAMMIND,arXiv:2503.06220,Preprint,,core_deployment,1
+MA-LMM,CVPR 2024,Archival,,core_deployment,1
+ProVideLLM,arXiv:2504.13915,Preprint,,core_deployment,1
+CLAM,WACV 2026,Archival,EK-100/Ego4D/THUMOS14,core_deployment,1
+Tang et al.,IEEE TCSVT 2025,Archival,,core_contextual,1
+Zhong et al. v2,arXiv Apr 2026,Preprint,,core_contextual,1
+Kong & Fu,IJCV 2022,Archival,,core_contextual,1
+Lai et al.,arXiv:2410.14045,Preprint,,core_contextual,1
+Hu et al.,Neurocomputing 2022,Archival,,core_contextual,1
+VideoMAE v2,CVPR 2023,Archival,,core_contextual,1
+TimeSformer,ICML 2021,Archival,,core_contextual,1
+ViViT,ICCV 2021,Archival,,core_contextual,1
+VideoMAE,NeurIPS 2022,Archival,,core_contextual,1
+V-JEPA 2,arXiv:2506.09985,Preprint,,core_contextual,1
+InternVideo2,ECCV 2024,Archival,,core_contextual,1
+InAViT,WACV 2024,Archival,,core_contextual,1
+Video-LLaMA,EMNLP 2023,Archival,,core_contextual,1
+EgoVideo,arXiv:2406.18070,Technical report,,core_contextual,1
+Ego4D,CVPR 2022,Archival,,core_contextual,1
+EPIC-KITCHENS-100,IJCV 2022,Archival,,core_contextual,1
+Furnari et al. 2018,ECCVW 2018,Archival,,core_contextual,1
+Abu Farha et al.,CVPR 2018,Archival,,core_contextual,1
+Furnari & Farinella,ICCV 2019,Archival,,core_contextual,1
+VideoLLM precursor,arXiv:2305.13292,Preprint,,core_contextual,1
+iDT,2013,Archival,,core_contextual,1
+Ryoo,2011,Archival,,core_contextual,1
+Kitani,2012,Archival,,core_contextual,1
+Two-Stream,2014,Archival,,core_contextual,1
+C3D,2015,Archival,,core_contextual,1
+I3D,2017,Archival,,core_contextual,1
+Guo et al.,2017,Archival,,core_contextual,1
+Ovadia et al.,2019,Archival,,core_contextual,1
+Kull et al.,2019,Archival,,core_contextual,1
+BiAnt,arXiv:2508.00374,Preprint,Ego4D-LTA,additional_evidence,1
+Ego4D LTA Challenge 2025,arXiv:2506.02550,Technical report,Ego4D-LTA,additional_evidence,1
+LLMAction,PRCV 2024,Archival,Breakfast/50Salads,additional_evidence,1
+ALM,ICANN 2024,Archival,EK-55/100,additional_evidence,1
+JFAA,arXiv:2605.20904,Technical report,EK-100,additional_evidence,1
+TAP-JEPA,arXiv:2606.00662,Technical report,EK-100,additional_evidence,1
+VISTA,arXiv:2605.20901,Technical report,Ego4D-STA,additional_evidence,1
+FROST-STA,arXiv:2606.00694,Technical report,Ego4D-STA,additional_evidence,1
+AFF-ttention,ECCV 2024,Archival,Ego4D-STA,additional_evidence,1
+ObjectPrompt,WACV 2024,Archival,Ego4D/EK,additional_evidence,1
+Action Sequence Augmentation,ICLR 2025,Archival,50Salads/EGTEA/EK-100,core_contextual,1
+VEDIT,ICLR 2025,Archival,NIV/CrossTask/COIN/Ego4D-v2,core_contextual,1
+Stergiou & Poppe,IJCV 2025,Archival,Broad action-understanding survey,core_contextual,1
+AAG,WACV 2026,Archival,IKEA-ASM/Meccano/Assembly101,core_focal,1
+DCPGN,CVPR 2026,Archival,EgoExoLearn/EgoMe-anti,core_focal,1
+TrajPilot,arXiv:2605.20388,Preprint,Ego-Exo4D/Ego4D GoalStep/EK-100,core_focal,1
+Decision-Aware Uncertainty Evaluation,arXiv:2603.10061,Preprint,EK-100/EGTEA Gaze+ calibration,core_contextual,1
+AAG+,arXiv:2601.22039,Preprint,IKEA-ASM/Meccano/Assembly101,core_contextual,1

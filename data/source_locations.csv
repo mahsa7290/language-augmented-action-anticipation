@@ -1,0 +1,26 @@
+method,source_location,locator_precision,artifact_url,artifact_version_or_commit,access_date,evaluation_script,configuration_file,verification_status
+AntGPT,Experiments; Appendix A.5,exact,https://github.com/brown-palm/AntGPT,2dbc211ae85d4fd8115b50a416ca91e8687bb6e6,2026-08-02,Llama2_models/Finetune/llama-recipes/inference/inference_lta.py,transformer_models/configs/ego4d_image_pred_in8.yaml,Official repository and paths inspected; result row not rerun; Transcribed-Level (i)
+PlausiVL,Sec. 5.2; Tables 3-4,exact,,,2026-08-02,,,No public repository identified in this audit; paper-derived; Transcribed-Level (i)
+PALM,Table 3; Appendix B.3/Table 7; Appendix D.2/Table 11,exact,,,,,,
+M-CAT,Sec. 4.3; Tables 5-6; Fig. 4,exact,,,,,,
+VideoPlan,Sec. 4.3; Tables 5-8,exact,,,,,,
+ICVL,Sec. 4.4; Tables 3-6; Fig. 4,exact,,,,,,
+ActionLLM,Sec. IV-C.1; Tables IV-VII,exact,,,,,,
+FactCheck,Sec. 5.3.1; Tables 4-5,exact,,,,,,
+AGA,Sec. 4.3; Tables 5-6,exact,,,,,,
+PAR-VLA,Tables 4-5,exact,,,,,,
+EgoAnticipator,Sec. 5.4; Tables 3-6,exact,,,,,,
+INSIGHT,Table 3,exact,,,,,,
+SymAnt,Experimental-results chapter,section-level,,,,,,Section-level locator retained; finer-grained table/figure/subsection locator was not verified in this audit.
+TransFusion,Secs. 4.1-4.4; Table 2 and associated ablations,exact,,,,,,Primary source structure inspected; exact section/table locator recorded; result rows not rerun.
+SAFT,Overall-results section,section-level,,,,,,Section-level locator retained; finer-grained table/figure/subsection locator was not verified in this audit.
+GP-AMS,Overall-results section,section-level,,,,,,Section-level locator retained; finer-grained table/figure/subsection locator was not verified in this audit.
+LEAP,Results and ablation discussion,section-level,,,,,,Section-level locator retained; finer-grained table/figure/subsection locator was not verified in this audit.
+Mascaro et al.,Sec. 4.3; Table 1 and validation ablations,exact,,,,,,Primary source structure inspected; exact section/table locator recorded; result rows not rerun.
+TR-LLM,Overall-results section,section-level,,,,,,Section-level locator retained; finer-grained table/figure/subsection locator was not verified in this audit.
+Anticipate & Act,Sec. IV-B; Tables I-IV,exact,,,,,,Primary source structure inspected; exact section/table locator recorded; result rows not rerun.
+HWM,Secs. 3.1-3.2; Tables 1-2,exact,,,,,,Primary source structure inspected; exact section/table locator recorded; result rows not rerun.
+V-JEPA 2.1,Main results table,section-level,https://github.com/facebookresearch/vjepa2,204698b45b3712590f06245fbfba32d3be539812,2026-08-02,evals/action_anticipation_frozen/eval.py,configs/eval_2_1/vitG-384/ek100.yaml,Official repository/evaluator/config inspected; 40.8 row not rerun; Transcribed-Level (i)
+AAG,"Sec. 5.1, Table 1; Secs. 5.3-5.4, Tables 4-5",exact,,,2026-08-03,,,Official WACV paper inspected; result rows not rerun; Transcribed-Level (i)
+DCPGN,Secs. 4.2-4.4; Tables 1-4,exact,https://github.com/ZhaofengSHI/DCPGN,,2026-08-03,,,Official CVPR page links repository; result rows not rerun; Transcribed-Level (i)
+TrajPilot,Conditioning comparison; planning and anticipation result sections,section-level,https://farsightlab.github.io/TrajPilot/,arXiv:2605.20388,2026-08-03,,,Author project page and arXiv record inspected; result rows not rerun; Transcribed-Level (i)

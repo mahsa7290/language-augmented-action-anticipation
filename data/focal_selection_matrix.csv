@@ -1,0 +1,26 @@
+method,condition_i_design_novelty,condition_ii_protocol,condition_iii_ablation,condition_iv_lineage,condition_v_boundary,focal_group
+TransFusion,1,1,0,0,0,core_language
+PALM,0,1,1,0,0,core_language
+SAFT,1,1,0,0,0,core_language
+M-CAT,0,1,1,0,0,core_language
+V-JEPA 2.1,1,1,0,0,0,non_llm_diagnostic
+EgoAnticipator,1,1,1,0,0,non_llm_diagnostic
+AntGPT,1,1,1,1,0,core_language
+INSIGHT,1,1,1,0,0,core_language
+GP-AMS,1,1,0,0,0,core_language
+ICVL,0,1,1,0,0,core_language
+PAR-VLA,1,1,1,0,0,core_language
+Mascaro et al.,1,1,0,1,0,non_llm_diagnostic
+PlausiVL,1,1,1,0,0,core_language
+VideoPlan,0,1,1,0,0,core_language
+ActionLLM,1,1,1,0,0,core_language
+AGA,1,1,1,0,0,non_llm_diagnostic
+LEAP,1,1,0,0,0,core_language
+FactCheck,1,1,1,0,0,core_language
+SymAnt,0,1,1,0,0,non_llm_diagnostic
+TR-LLM,1,0,0,0,1,boundary
+Anticipate & Act,1,0,0,0,1,boundary
+HWM,1,0,0,0,1,boundary
+AAG,1,1,1,1,0,core_language
+DCPGN,1,1,1,0,0,core_language
+TrajPilot,1,1,1,0,0,non_llm_diagnostic

@@ -1,0 +1,11 @@
+benchmark,method,version_or_label_space,setting,subset,reported_value,source_location,verification
+Ego4D-LTA,Mascaro et al.,v1,N=6; Z=20; K=5,test,Verb ED 0.741; Noun ED 0.739; Action ED 0.930,Table 1,Transcribed-Level (i)
+Ego4D-LTA,AntGPT,v1,N=8; Z=20; K=5,test,Verb ED 0.6584; Noun ED 0.6546; Action ED 0.8814,Table 6,Transcribed-Level (i)
+Ego4D-LTA,PALM,v1,N=8; Z=20; K=5,test,Verb ED 0.6559; Noun ED 0.6401; Action ED 0.8613,Table 1,Transcribed-Level (i)
+Ego4D-LTA,AntGPT,v2,N=8; Z=20; K=5,test,Verb ED 0.6503; Noun ED 0.6498; Action ED 0.8770,Table 6,Transcribed-Level (i)
+Ego4D-LTA,PALM,v2,N=8; Z=20; K=5,test,Verb ED 0.6471; Noun ED 0.6117; Action ED 0.8503,Table 1,Transcribed-Level (i)
+EK-100,InAViT,EK-100,tau_a=1s,overall validation,Action MT5R 25.8,V-JEPA 2 comparison table,Transcribed-Level (i)
+EK-100,Video-LLaMA,EK-100,tau_a=1s,overall validation,Action MT5R 26.0,V-JEPA 2 comparison table,Transcribed-Level (i)
+EK-100,PlausiVL,EK-100,tau_a=1s,overall validation,Action MT5R 27.6,V-JEPA 2 comparison table,Transcribed-Level (i)
+EK-100,V-JEPA 2,EK-100,tau_a=1s,overall validation,Action MT5R 39.7,V-JEPA 2 primary report,Transcribed-Level (i)
+EK-100,V-JEPA 2.1,EK-100,tau_a=1s,overall validation,Action MT5R 40.8,V-JEPA 2.1 primary report,Transcribed-Level (i)

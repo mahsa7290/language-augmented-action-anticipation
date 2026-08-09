@@ -1,0 +1,48 @@
+{
+  "missing_files": [],
+  "checks": {
+    "inventory_record_sum": 79,
+    "focal_rows": 25,
+    "component_rows": 25,
+    "evidence_rows": 25,
+    "row_counts": {
+      "claim_evidence_map.csv": 7,
+      "protocol_evidence_matrix.csv": 10,
+      "table13_reporting_metadata.csv": 5,
+      "deployment_methods.csv": 10,
+      "bcap_checklist.csv": 9,
+      "bcap_worked_example.csv": 9,
+      "source_locations.csv": 25,
+      "artifact_registry.csv": 3,
+      "verification_search_log.csv": 11
+    },
+    "expected_row_count_checks": {
+      "claim_evidence_map.csv": true,
+      "protocol_evidence_matrix.csv": true,
+      "table13_reporting_metadata.csv": true,
+      "deployment_methods.csv": true,
+      "bcap_checklist.csv": true,
+      "bcap_worked_example.csv": true,
+      "source_locations.csv": true
+    },
+    "all_focal_have_component": true,
+    "all_focal_have_evidence": true,
+    "all_focal_have_source_location": true,
+    "source_provenance_nonempty": true,
+    "protocol_provenance_nonempty": true,
+    "claim_rows_nonempty": true,
+    "claim_set_matches_main_table": true,
+    "focal_groups": {
+      "core_language": 16,
+      "non_llm_diagnostic": 6,
+      "boundary": 3
+    },
+    "components": {
+      "C1": 8,
+      "C2": 7,
+      "C3": 4,
+      "C4": 6
+    }
+  },
+  "passed": true
+}

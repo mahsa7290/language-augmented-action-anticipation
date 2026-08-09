@@ -1,0 +1,25 @@
+Literature freeze: 31 July 2026
+These are reconstructed search templates, not prospective executed-query logs.
+
+("action anticipation" OR "action forecasting" OR "long-term action prediction")
+AND (video OR egocentric OR procedural)
+
+("video LLM" OR "video language model" OR "vision-language model")
+AND (anticipation OR forecasting OR future action)
+
+("egocentric prediction" OR "future action")
+AND (Ego4D OR EPIC-KITCHENS OR Assembly101 OR 50Salads OR Breakfast)
+
+Fields: title, abstract, keywords where available.
+Sources: listed venues/journals plus arXiv cs.CV and cs.AI.
+
+Prospective verification pass executed 2 August 2026 with expanded future-action, activity-forecasting, procedure-forecasting, intention-prediction, and action-sequence-forecasting terms.
+
+
+Prospective extended verification pass (executed 2026-08-03; eligibility cutoff 2026-07-31)
+Q7: ("egocentric prediction" OR "future action forecasting" OR "single-frame action anticipation") AND (language OR text OR multimodal OR VLM)
+Q8: ("trajectory-conditioned anticipation" OR "trajectory conditioned egocentric prediction" OR "procedural planning")
+Q9: ("test-time adaptation" AND "action anticipation") OR ("ego-exo" AND anticipation)
+Q10: ("uncertainty action anticipation" OR "early action anticipation" AND calibration OR "selective prediction")
+Citation chaining anchors: AntGPT, PALM, PAR-VLA, V-JEPA 2/2.1, AAG, Zhong et al., Stergiou and Poppe.
+The pass supplements, but does not reconstruct, the original historical retrieval.

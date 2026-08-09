@@ -1,0 +1,36 @@
+{
+  "inventory_total": 79,
+  "additional_evidence": 10,
+  "focal_total": 25,
+  "primary_component_counts": {
+    "C1": 8,
+    "C2": 7,
+    "C3": 4,
+    "C4": 6
+  },
+  "focal_groups": {
+    "core_language": 16,
+    "non_llm_diagnostic": 6,
+    "boundary": 3
+  },
+  "publication_maturity": {
+    "Archival": 15,
+    "Preprint": 9,
+    "Non-archival": 1
+  },
+  "component_isolation": {
+    "Dedicated": 15,
+    "Partial": 2,
+    "None": 8
+  },
+  "retained_synthesis_total": 69,
+  "contextual_historical": 34,
+  "initial_windows_1_2_total": 61,
+  "verification_added_2026_08_02": 3,
+  "extended_verification_added_2026_08_03": 5,
+  "publication_eligibility_cutoff": "2026-07-31",
+  "verification_search_dates": [
+    "2026-08-02",
+    "2026-08-03"
+  ]
+}

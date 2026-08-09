@@ -1,0 +1,11 @@
+method,E2,E3,relation_to_anticipation
+SparseVLM,1,0,transfer mechanism only
+PruneVid,1,0,transfer mechanism only
+VTS,1,0,transfer mechanism only
+AdaCM2,1,secondary,transfer mechanism only
+ReKV,1,1,transfer mechanism only
+CLAM,1,secondary,direct anticipation evaluation
+VideoLLM-online,0,1,transfer mechanism only
+STREAMMIND,0,1,transfer mechanism only
+MA-LMM,secondary,1,transfer mechanism only
+ProVideLLM,secondary,1,transfer mechanism only

@@ -1,0 +1,12 @@
+publication_eligibility_cutoff,search_date,sources,query_family,candidate,disposition,reason
+2026-07-31,2026-08-02,official ICLR/CVF/AAAI/arXiv/publisher indexes,expanded anticipation/forecasting query family,Action Sequence Augmentation for Action Anticipation,added_contextual,Direct non-LLM anticipation evidence
+2026-07-31,2026-08-02,official ICLR/CVF/AAAI/arXiv/publisher indexes,expanded anticipation/forecasting query family,VEDIT,added_contextual,Procedural forecasting including Ego4D-v2
+2026-07-31,2026-08-02,official ICLR/CVF/AAAI/arXiv/publisher indexes,expanded anticipation/forecasting query family,About Time,added_contextual_survey,Broad forecasting survey
+2026-07-31,2026-08-02,official ICLR/CVF/AAAI/arXiv/publisher indexes,expanded anticipation/forecasting query family,Deep Learning and Attention-Based Methods review,excluded,Broad HAR/attention review
+2026-07-31,2026-08-02,official ICLR/CVF/AAAI/arXiv/publisher indexes,expanded anticipation/forecasting query family,Enhanced industrial long-term activity prediction,excluded,Outside scope
+2026-07-31,2026-08-02,official ICLR/CVF/AAAI/arXiv/publisher indexes,expanded anticipation/forecasting query family,LLM-powered object categorization intention prediction,excluded,No recognised video anticipation protocol
+2026-07-31,2026-08-03,official CVF/arXiv/author project pages and citation chaining,extended task-regime and reliability query family,AAG,added_focal_C1,Direct single-frame multimodal anticipation; VLM-generated action-history semantics
+2026-07-31,2026-08-03,official CVF/arXiv/author project pages and citation chaining,extended task-regime and reliability query family,DCPGN,added_focal_C1,Direct test-time ego-exo action anticipation with textual and visual clues
+2026-07-31,2026-08-03,official CVF/arXiv/author project pages and citation chaining,extended task-regime and reliability query family,TrajPilot,added_focal_C2_diagnostic,Trajectory-conditioned intent diagnostic with goal-masked anticipation and EK-100 extension
+2026-07-31,2026-08-03,official CVF/arXiv/author project pages and citation chaining,extended task-regime and reliability query family,Decision-Aware Uncertainty Evaluation,added_contextual_evaluation,Direct calibration and selective-prediction evidence for early anticipation
+2026-07-31,2026-08-03,official CVF/arXiv/author project pages and citation chaining,extended task-regime and reliability query family,AAG+,added_contextual_lineage,Follow-up multimodal ablations and single-frame anticipation synthesis
