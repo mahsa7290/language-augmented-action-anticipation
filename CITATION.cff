@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this evidence package, please cite the accompanying survey."
 title: "Language-Augmented Video Action Anticipation: Evidence Package and Catalogue"
 type: dataset
+
 authors:
   - family-names: Mohammadi
     given-names: Mahsa
@@ -9,12 +10,16 @@ authors:
     given-names: Zeyu
   - family-names: Rowlands
     given-names: Sareh
+
 version: "1.0.0"
+repository-code: "https://github.com/mahsa7290/language-augmented-action-anticipation"
 license: CC-BY-4.0
+
 keywords:
   - action anticipation
   - video understanding
   - large language models
   - vision-language models
   - evidence audit
-abstract: "Machine-readable evidence package and versioned catalogue accompanying a review of language-augmented video action anticipation."
+
+abstract: "Machine-readable evidence package and versioned catalogue accompanying the manuscript Language-Augmented Video Action Anticipation: Design Fundamentals, Benchmarks, and Open Challenges."
